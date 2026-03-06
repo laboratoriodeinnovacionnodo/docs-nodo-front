@@ -50,7 +50,7 @@ const TIPOS_EVENTO = [
     color: "bg-red-100 text-red-700 border-red-200",
     dot: "bg-red-400",
     icon: XCircle,
-    desc: "El evento fue dado de baja antes de realizarse. Se notifica a los involucrados y se libera el espacio reservado.",
+    desc: "Nosotros no notificamos a los involucrados simplemente el evento fue dado de baja antes de realizarse. Se libera el espacio reservado.",
   },
   {
     key: "MASIVO",
@@ -66,7 +66,7 @@ const TIPOS_EVENTO = [
     color: "bg-pink-100 text-pink-700 border-pink-200",
     dot: "bg-pink-500",
     icon: GraduationCap,
-    desc: "Actividad educativa con grupos de estudiantes. Requiere coordinación con el área responsable y lista de asistentes.",
+    desc: "Actividad educativa destinada a recorrer el edificio del Nodo Tecnologico en el marco de una visita didactica.",
   },
 ];
 
